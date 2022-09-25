@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Priyodit Choudhary";
+            document.title = "Projects | Portfolio Simran Yadav";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
